@@ -1,9 +1,6 @@
 # twinterview The project code - TW
-<p>
-## The app requirements:
-</p>
 
-### General information:<br />
+## General information:<br />
 The app downloads wheather data from wheather service - http://api.openweathermap.org/data/2.5/forecast/daily?mode=json&units=metric&cnt=7&APPID=15646a06818f61f7b8d7823ca833e1ce&zip=94043<br />
 It provides data for next 7 days including current day.<br />
 Icon resource: http://openweathermap.org/img/w/#icon.png - for example http://openweathermap.org/img/w/04n.png - #icon is in json<br />
