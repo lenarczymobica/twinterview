@@ -18,13 +18,13 @@ TW-5. The app contains toolbar with menu with Settings item.<br />
 TW-6. Tapping on Settings item, the user is forwared to Settings screen<br />
 ![alt text](screens/main.png "Main Screen")
 
-### Details Screen - screen shot details.png:<br />
+### Details Screen
 TW-7. The screen contains toolbar with title: name, day in format: Day, Month, DD, YYYY - according to screen shot<br />
 TW-8. The toolbar contains <- navigation icon<br />
 TW-9. Details screen contains: icon, whether description, max temperature, min temperature<br />
 ![alt text](screens/details.png "Details Screen")
 
-### Settings screen - screen shot settings.png:<br />
+### Settings screen
 TW-10. The sceen contains toolbar with title: Settings and back icon <-<br />
-TW-11 Settings screen contains: City ZipCode, EditText with hint City ZipCode, accepting only Numbers - zip code is changing in settings screen<br />
+TW-11 Settings screen contains: City ZipCode, EditText with hint City ZipCode, accepting only Numbers - zip code is changing in settings screen. Tapping on back button it store zip code<br />
 ![alt text](screens/settings.png "Settings Screen")
