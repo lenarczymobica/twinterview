@@ -5,7 +5,8 @@ The app downloads wheather data from wheather service - http://api.openweatherma
 It provides data for next 7 days including current day.<br />
 Icon resource: http://openweathermap.org/img/w/#icon.png - for example http://openweathermap.org/img/w/04n.png - #icon is in json<br />
 Downloaded wheather data should be persisted<br />
-Zip code is hardcoded and if you create settings screen should be stored somewhere<br />
+Zip code is hardcoded and if you create settings screen, zip code should be stored somewhere<br />
+This requirement is obious but it will be mentioned: The app should be tested by Unit and UI tests 
 
 ## There are 3 screens within the app.
 
